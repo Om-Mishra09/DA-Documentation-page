@@ -11,7 +11,7 @@ function Docs() {
             Cygnus is an Eclipse-based IDE from Drona Aviation tailored for Pluto Drones, supporting C/C++ programming for core drone application development
           </p>
         </div>
-        <img src="/IDE image.png" alt="Pluto IDE" />
+        <img src="/IDE Image.png" alt="Pluto IDE" />
       </div>
 
       <div className="doc-item reverse">
