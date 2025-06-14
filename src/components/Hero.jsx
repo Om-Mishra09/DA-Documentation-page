@@ -8,7 +8,7 @@ export default function Hero() {
       <p>Your hub for drone development docs.</p>
 
       <img
-        src='../../public/drone image.jpg'
+        src='/drone image.jpg'
         alt="Drone Hero"
         className="hero-img"
       />
