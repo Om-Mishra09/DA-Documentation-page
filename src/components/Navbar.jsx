@@ -5,7 +5,7 @@ export default function Navbar() {
   return (
     <nav className="navbar">
       <div className="logo">
-  <img src="../../public/pluto logo.png" alt="Pluto Logo" className="logo-img" />
+  <img src="/pluto logo.png" alt="Pluto Logo" className="logo-img" />
 </div>
       <ul className="nav-links">
         <li>Home</li>
