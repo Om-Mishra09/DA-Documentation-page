@@ -1,0 +1,30 @@
+.overview {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 60px 20px;
+    background-color: white;
+    text-align: center;
+  }
+  
+  .pluto-logo {
+    width: 300px;
+    margin-bottom: 30px;
+    height: 100px;
+  }
+  
+  .overview-text {
+    max-width: 800px;
+  }
+  
+  .overview-text h2 {
+    font-size: 2rem;
+    margin-bottom: 15px;
+    color: #1a1a1a;
+  }
+  
+  .overview-text p {
+    color: #555;
+    line-height: 1.6;
+  }
+  
